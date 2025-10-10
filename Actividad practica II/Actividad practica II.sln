@@ -27,7 +27,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio11", "..\Ejercicio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio12", "..\Ejercicio12\Ejercicio12.csproj", "{D069F66B-545A-4878-880E-705899AEA1A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio16", "..\..\..\..\UFHEC - copia\Asignaturas\Lenguaje de programacion I\Unidad III - Tarea I\Unidad III - Tarea I\Ejercicio16.csproj", "{438E6961-CEEA-47FA-997D-A189C67B9554}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio17", "..\..\..\..\UFHEC - copia\Asignaturas\Lenguaje de programacion I\Unidad III - Tarea I\Unidad III - Tarea I\Ejercicio17.csproj", "{438E6961-CEEA-47FA-997D-A189C67B9554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio16", "..\Ejercicio16\Ejercicio16.csproj", "{A7F093B3-BBF7-4300-BBB6-CF1103F02509}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{438E6961-CEEA-47FA-997D-A189C67B9554}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{438E6961-CEEA-47FA-997D-A189C67B9554}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{438E6961-CEEA-47FA-997D-A189C67B9554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F093B3-BBF7-4300-BBB6-CF1103F02509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F093B3-BBF7-4300-BBB6-CF1103F02509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F093B3-BBF7-4300-BBB6-CF1103F02509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F093B3-BBF7-4300-BBB6-CF1103F02509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
