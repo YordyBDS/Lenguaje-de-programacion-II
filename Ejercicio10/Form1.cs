@@ -9,7 +9,8 @@ namespace Ejercicio10
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola soy Yordy Beltre, Matricula: SD-2022-03581", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Hola soy Yordy Beltre, Matricula: SD-2022-03581", "Información", 
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
