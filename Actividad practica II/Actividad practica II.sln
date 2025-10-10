@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad practica II", "Actividad practica II.csproj", "{5ADE2DF9-364B-47BA-9EEB-0D52CCA22C8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1.csproj", "{5ADE2DF9-364B-47BA-9EEB-0D52CCA22C8D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2", "..\Ejercicio2\Ejercicio2.csproj", "{1B64C296-75A5-4B39-B18F-A343C16EBA01}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio11", "..\Ejercicio11\Ejercicio11.csproj", "{ABBC81D0-C6BF-4FF2-8FC1-A72CD225A16F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio12", "..\Ejercicio12\Ejercicio12.csproj", "{D069F66B-545A-4878-880E-705899AEA1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio16", "..\..\..\..\UFHEC - copia\Asignaturas\Lenguaje de programacion I\Unidad III - Tarea I\Unidad III - Tarea I\Ejercicio16.csproj", "{438E6961-CEEA-47FA-997D-A189C67B9554}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{D069F66B-545A-4878-880E-705899AEA1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D069F66B-545A-4878-880E-705899AEA1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D069F66B-545A-4878-880E-705899AEA1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438E6961-CEEA-47FA-997D-A189C67B9554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438E6961-CEEA-47FA-997D-A189C67B9554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438E6961-CEEA-47FA-997D-A189C67B9554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438E6961-CEEA-47FA-997D-A189C67B9554}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
