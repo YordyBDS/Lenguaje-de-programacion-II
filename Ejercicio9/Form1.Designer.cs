@@ -1,4 +1,4 @@
-﻿namespace Ejercicio8
+﻿namespace Ejercicio9
 {
     partial class Form1
     {
@@ -28,37 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
+            textBox1 = new TextBox();
             button1 = new Button();
-            label1 = new Label();
             SuspendLayout();
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(12, 91);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(125, 27);
+            textBox1.TabIndex = 0;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // button1
             // 
-            button1.Location = new Point(119, 130);
+            button1.Location = new Point(12, 150);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
-            button1.TabIndex = 0;
-            button1.Text = "Contar click";
+            button1.TabIndex = 1;
+            button1.Text = "Validar";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(248, 134);
-            label1.Name = "label1";
-            label1.Size = new Size(111, 20);
-            label1.TabIndex = 1;
-            label1.Text = "Has hecho click";
-            label1.Click += label1_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(label1);
             Controls.Add(button1);
+            Controls.Add(textBox1);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -67,7 +65,7 @@
 
         #endregion
 
+        private TextBox textBox1;
         private Button button1;
-        private Label label1;
     }
 }
